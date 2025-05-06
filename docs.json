@@ -11,6 +11,10 @@
   "navigation": {
     "tabs": [
       {
+        "tab": "API Reference",
+        "openapi": "https://api.opper.ai/openapi.json"
+      },
+      {
         "tab": "Guides",
         "groups": [
           {
